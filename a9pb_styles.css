@@ -1,0 +1,58 @@
+html{
+
+}
+.imgres {
+	width: 300px;
+	padding-left:200px;
+}
+.headline{
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial Black;
+	font-size: 70px;
+	color:#000033;
+	text-shadow: 3px 2px white;
+	width: 1200px
+	letter-spacing: 5px;
+	padding-bottom:0px;
+	margin-botom: 0px;
+}
+.subline{
+	margin: auto;	
+	font-family: Arial Black;
+	font-size: 30px;
+	color: #000033;
+	text-shadow: 1px 1px white;
+	width: 950px
+}
+.facepage {
+	background-image: url("hogwartsmural50.jpg"); no-repeat center fixed;
+    background-size: cover;
+	padding-top: 230px;
+	padding-bottom: 230px;
+}
+.Qpage {
+	background-image: url("crest50.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-attachment: fixed;
+	padding-top: 230px;
+	padding-bottom: 250px;
+}
+.tq {
+	color:#000033;
+	padding-left: 200px;
+}
+.tqline {
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+
+.ta {
+	color: #000033;
+	font-size: 20px;
+	padding-left: 200px;
+	width: 400px;
+	padding-top: 200px;
+}
